@@ -101,6 +101,14 @@ $ python ghcategorize.py GITHUB_REPO_NAME GITHUB_OWNER_NAME
 
 ### Stats
 
+You will need the `statistics` module to generate stats. If you have Python
+3.4 or newer, you're fine, as it ships with this module. If you have an older
+version of Python you can install it with pip:
+
+```bash
+pip install statistics
+```
+
 Then generate html reports with statistics (note this imports functions from ghreport.py)
 
 ```bash
