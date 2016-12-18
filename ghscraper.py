@@ -267,6 +267,7 @@ def main():
     parser.add_argument('repository', help='github repository name')
     parser.add_argument('owner', help='github username of repository owner')
     parser.add_argument('credentials_file_or_token', help='OAuth token or path to file storing github username and password to use for authentication (two lines)')
+    parser.add_argument('--category', help='category for report')
     args = parser.parse_args()
 
     repoPath = os.path.join(args.owner, args.repository)
@@ -281,6 +282,12 @@ def main():
     # Too bad makedirs exist_ok was removed in 3.4.1
     if not os.path.exists(repoPath):
         os.makedirs(repoPath)
+    with open(os.path.join(repoPath, 'description.txt'), 'w') as f:
+        f.write(repo.description + "\n")
+    if args.category is not None:
+        with open(os.path.join(repoPath, 'category.txt'), 'w') as f:
+            f.write(args.category + "\n")
+        
     if repo.ratelimit_remaining != 0:
         print('Github rate limit at', str(repo.ratelimit_remaining))
 
