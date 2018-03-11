@@ -1,0 +1,1757 @@
+#mozilla-l10n/documentation/issue-177140566\issue-177140566.json . 
+This is an issue to test how Projects work in GitHub.
+- [x] First action item
+- [ ] Second action item
+
+.
+#mozilla-l10n/documentation/issue-179514763\issue-179514763.json . 
+Initial revision
+
+.
+#mozilla-l10n/documentation/issue-179514763\pr-86944997.json . 
+Initial revision
+
+.
+#mozilla-l10n/documentation/issue-188513527\issue-188513527.json . 
+@flodolo r?
+.
+#mozilla-l10n/documentation/issue-188513527\pr-93153958.json . 
+@flodolo r?
+.
+#mozilla-l10n/documentation/issue-188579236\issue-188579236.json . 
+@mathjazz r?
+.
+#mozilla-l10n/documentation/issue-188579236\pr-93201904.json . 
+@mathjazz r?
+.
+#mozilla-l10n/documentation/issue-188702445\comment-259901075.json . 
+Closing, fixed in a different update.
+
+.
+#mozilla-l10n/documentation/issue-200494084\issue-200494084.json . 
+We need to reorganize the docs repo to reflect the new structure we agreed upon in Mountain View. That can be found here: 
+!2017-01-11 16 59 08.
+.
+#mozilla-l10n/documentation/issue-200495524\comment-277188111.json . 
+This is actually not needed. Documentation is available within the app, and it's linked in the newly added Stores doc.
+.
+#mozilla-l10n/documentation/issue-200495657\comment-272331758.json . 
+Document needs to include:.
+* Which repositories are involved
+* Relevant flows
+* Service offered (API, locale view, completion)
+.
+#mozilla-l10n/documentation/issue-200496306\comment-312050160.json . 
+No longer needed.
+.
+#mozilla-l10n/documentation/issue-200496335\issue-200496335.json . 
+Fix issue #14.
+.
+#mozilla-l10n/documentation/issue-200496335\pr-101352434.json . 
+Fix issue #14.
+.
+#mozilla-l10n/documentation/issue-200496412\comment-312049928.json . 
+No longer needed.
+.
+#mozilla-l10n/documentation/issue-200496499\comment-312049813.json . 
+No longer needed.
+.
+#mozilla-l10n/documentation/issue-200496790\comment-272331636.json . 
+Document needs to include:.
+* Instructions on the packages to install and setup in a Linux (Ubuntu 16.04)
+* Probably a bash script to take care of the setup for you
+
+.
+#mozilla-l10n/documentation/issue-200496790\comment-273468926.json . 
+Fixed by #39.
+.
+#mozilla-l10n/documentation/issue-200498067\issue-200498067.json . 
+- URL.
+- URL.
+
+.
+#mozilla-l10n/documentation/issue-200500327\comment-272589062.json . 
+* Testing for both single locale and multi locale builds.
+* single locale: ftp builds + copy what I have from etherpad I created for testing
+* multilocale builds: see etherpad.
+.
+#mozilla-l10n/documentation/issue-200500327\comment-280827586.json . 
+This should be done by #48.
+.
+#mozilla-l10n/documentation/issue-200500539\comment-285224579.json . 
+Ongoing: URL.
+.
+#mozilla-l10n/documentation/issue-200500539\comment-313121243.json . 
+Looks like this was done and moved to localizer-documentation
+URL.
+.
+#mozilla-l10n/documentation/issue-200500539\issue-200500539.json . 
+Install + screenshots.
+.
+#mozilla-l10n/documentation/issue-200501438\comment-272589547.json . 
+- see email from Flod about this and flesh out.
+.
+#mozilla-l10n/documentation/issue-200501438\comment-285079213.json . 
+URL.
+.
+#mozilla-l10n/documentation/issue-200501931\comment-272325371.json . 
+Let's cover all products in a document in /common.
+.
+#mozilla-l10n/documentation/issue-200501931\comment-328433424.json . 
+On second thoughts, better to have separate documents. Too much information is specific for each product.
+.
+#mozilla-l10n/documentation/issue-200501931\issue-200501931.json . 
+Add to documents covering adding locales for these projects:.
+[ ] Fx iOS
+[ ] Focus
+
+.
+#mozilla-l10n/documentation/issue-200503669\comment-283870310.json . 
+Please remember to close issues when they are fixed :bear_face: .
+.
+#mozilla-l10n/documentation/issue-200505333\comment-283845061.json . 
+This seems to have been covered by flod in #37 (thanks :D) .
+.
+#mozilla-l10n/documentation/issue-200505333\comment-283870073.json . 
+Wait, this is confusing.
+
+#37 it's an issue (not a PR) that was closed in favor of this one.
+.
+#mozilla-l10n/documentation/issue-200505333\comment-293280954.json . 
+I think you fixed this in #78.
+.
+#mozilla-l10n/documentation/issue-200505333\comment-293406938.json . 
+Ah right, thanks for remembering to update here.
+.
+#mozilla-l10n/documentation/issue-200505521\comment-331139970.json . 
+Reference: URL.
+.
+#mozilla-l10n/documentation/issue-200505521\issue-200505521.json . 
+Content to come from here: URL.
+.
+#mozilla-l10n/documentation/issue-200515030\issue-200515030.json . 
+Once #23 is fixed, we should simplify existing instructions by only explaining how commands work only in the VM scenario.
+.
+#mozilla-l10n/documentation/issue-200516924\comment-272325604.json . 
+Blocked by mkaply work on Android.
+.
+#mozilla-l10n/documentation/issue-200516924\issue-200516924.json . 
+Store document in /common, shared instructions for Desktop and Android.
+.
+#mozilla-l10n/documentation/issue-200517306\comment-272329345.json . 
+Here is where I put:.
+* 1st check font support
+* links to existing adding new locales to android (single and all-locales)
+.
+#mozilla-l10n/documentation/issue-200517306\issue-200517306.json . 
+New document.
+
+Should include:.
+* Prerequisites (font, locale, CLDR support)
+* Link to existing single/multi locale docs, when to add to which one
+* Check to make sure that language appears in multilocale build the next day (URL.
+.
+#mozilla-l10n/documentation/issue-200517462\comment-272326724.json . 
+This should be part of #32.
+.
+#mozilla-l10n/documentation/issue-200517462\issue-200517462.json . 
+OS support.
+.
+#mozilla-l10n/documentation/issue-200518244\comment-272327296.json . 
+Belongs in Misc.
+.
+#mozilla-l10n/documentation/issue-200518244\comment-312038240.json . 
+Created PR #44   .
+.
+#mozilla-l10n/documentation/issue-200518244\issue-200518244.json . 
+Templates for messages that we regularly send out to localizers, vendors, internal teams, etc.
+.
+#mozilla-l10n/documentation/issue-201622574\issue-201622574.json . 
+This definitely needs review from a different pair of eyes (see #34)
+.
+#mozilla-l10n/documentation/issue-201622574\pr-102099946.json . 
+This definitely needs review from a different pair of eyes (see #34)
+.
+#mozilla-l10n/documentation/issue-202077556\issue-202077556.json . 
+Reverts mozilla-l10n/documentation#40.
+.
+#mozilla-l10n/documentation/issue-202077556\pr-102418837.json . 
+Reverts mozilla-l10n/documentation#40.
+.
+#mozilla-l10n/documentation/issue-202078597\comment-277057572.json . 
+Fixed comments in URL.
+.
+#mozilla-l10n/documentation/issue-202078597\issue-202078597.json . 
+Reopening PR, the other one was merged prematurely and reverted.
+
+We need to make sure that everyone is aware on how to deal with these PRs. Let's wait until next Tuesday this time ;-)
+.
+#mozilla-l10n/documentation/issue-202078597\pr-102419473.json . 
+Reopening PR, the other one was merged prematurely and reverted.
+
+We need to make sure that everyone is aware on how to deal with these PRs. Let's wait until next Tuesday this time ;-)
+.
+#mozilla-l10n/documentation/issue-202078597\pr-comment-99193075.json . 
+Shouldn't this be App Store instead of Google Play here, since we're talking about Firefox for iOS?
+.
+#mozilla-l10n/documentation/issue-202078597\pr-comment-99196244.json . 
+Nitpicking: 30 May 2016 doesn't sound natural to me in that order. Probably better to change to May 30th or 30th of May 2016.
+.
+#mozilla-l10n/documentation/issue-202078597\pr-comment-99197464.json . 
+Indeed. And guess what? All comments in the actual files are wrong…
+URL.
+
+I'm tempted to let you update the files though, to build experience with the system ;-)
+.
+#mozilla-l10n/documentation/issue-204876461\comment-276959604.json . 
+This is blocked by #42, since I've started on top of it.
+.
+#mozilla-l10n/documentation/issue-204876461\comment-277056358.json . 
+This one is ready for review, asking @TheoChevalier since he's the only one with some knowledge of the code.
+.
+#mozilla-l10n/documentation/issue-204876461\comment-277187809.json . 
+Thanks! :thumbs_up_sign: .
+.
+#mozilla-l10n/documentation/issue-204876461\pr-comment-99289400.json . 
+Maybe worth mentioning that if translations exceed the max length, they are considered "not done" until localizers fix them (unless this has changed), and that length errors are not displayed in the webdashboard.
+.
+#mozilla-l10n/documentation/issue-204876461\pr-comment-99290337.json . 
+Good point. Added note.
+.
+#mozilla-l10n/documentation/issue-206828089\comment-279340620.json . 
+I've just noticed that there's a new branch with more changes to these files. Since it's a different branch, it won't show up here…
+
+I really suggest to not use the online editor, clone the repository offline and work on a branch. This doc has enough info to get started URL.
+.
+#mozilla-l10n/documentation/issue-206828089\comment-312039315.json . 
+Uh...I just realized that I did this a long time ago? Can we just kill this PR and focus on the other? #94 .
+.
+#mozilla-l10n/documentation/issue-206828089\comment-312090705.json . 
+@gueroJeff Feel free to merge this ;-)
+.
+#mozilla-l10n/documentation/issue-206828089\issue-206828089.json . 
+Migrated content of URL to GitHub docs and updated to reflect current l10n procedures and tools.
+.
+#mozilla-l10n/documentation/issue-206828089\pr-105650931.json . 
+Migrated content of URL to GitHub docs and updated to reflect current l10n procedures and tools.
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100559951.json . 
+typos: as possible, personalized.
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100560231.json . 
+Why the switch to 3rd level title?
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100560524.json . 
+nit: https for the Google groups link. Same later in the doc.
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100560648.json . 
+Did you want to use just dev-l10n here? You have a missing parenthesis before the first e.g.
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100561067.json . 
+nit: Bugzilla.
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100561332.json . 
+We should probably tell them in which component to file the bug? Do we file bugs for Pootle?
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100561403.json . 
+nit: Bugzilla.
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100561578.json . 
+extra blank spaces after if. Same question about where to file the bug.
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100562909.json . 
+Uhh, no good reason :-\
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100569826.json . 
+Are you asking if we want to stop using dev-l10n-new?
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-100570450.json . 
+For existing locales I think it makes sense to use dev-l10n. Also, based on the text of the link, I assumed the link the dev-l10n-new-locales was a copy and paste error from the previous paragraph.
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-124877653.json . 
+The link is broken here. What's the URL you want to point to? Since they're email templates, I would just put the plain links all over the document, or the HTML version `<a href="URL">link text</a>".
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-124877913.json . 
+outline -> outlined?
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-124878467.json . 
+The first closing parenthesis is missing an opening.
+.
+#mozilla-l10n/documentation/issue-206828089\pr-comment-124878930.json . 
+hg -> Mercurial (hg)
+.
+#mozilla-l10n/documentation/issue-207151625\issue-207151625.json . 
+Need to document the process to add locale to production for mozilla.org.
+.
+#mozilla-l10n/documentation/issue-207170105\comment-279626383.json . 
+@peiying2 
+When you are on the main page of the pull request, you should see a link "Add your review" since your review was explicitly requested. Click it and select "Approve changes".
+
+In the future, you can use the same process to request updates. When you comment, select "Start a review". Then you can use the button on the top corner to complete your review, and choose if it's just comments, approved or require changes.
+.
+#mozilla-l10n/documentation/issue-207170105\issue-207170105.json . 
+@peiying2 
+Review for this is on you, since you need it to fix bug 1338759.
+.
+#mozilla-l10n/documentation/issue-207170105\pr-105861317.json . 
+@peiying2 
+Review for this is on you, since you need it to fix bug 1338759.
+.
+#mozilla-l10n/documentation/issue-207407938\comment-280761657.json . 
+I've updated the files with all the suggestions. Let me know if it looks good now!
+.
+#mozilla-l10n/documentation/issue-207407938\comment-280817487.json . 
+Fixed stuff again :)  Let me know now! thanks.
+.
+#mozilla-l10n/documentation/issue-207407938\comment-280827546.json . 
+I think everything looks good. We can always fix minor stuff later (I'll do a direct pass on the single quotes).
+.
+#mozilla-l10n/documentation/issue-207407938\comment-280827855.json . 
+For reference: URL.
+
+Straight quote -> apostrophe, no double spaces, use * instead of - for lists. There was already a lot going on here and didn't want to bother you with nits :-)
+
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100983603.json . 
+Nit: it's not 6 weeks anymore, it's variable (6-8 weeks).
+Also: merge day is when localizations move to the next train, and the last day available to include localization updates to the next Beta version if you work on tools like Pootle.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100983830.json . 
+General nit, feel free to ignore it: the rest of the documentation uses ’ (apostrophe) instead of a straight quote. Nothing bad if you keep it like this, just better consistency if you update it.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100984061.json . 
+a search engine -> search engines.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100984108.json . 
+I would specify that this is done by l10n-drivers, not localizers?
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100984348.json . 
+I think you should point to /products/firefox_android/setup_searchplugins.md for now. We'll update it when the new shared document is available.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100984731.json . 
+missing .md in the link. Note that you can test these pages by looking at your branch, or using the View button here
+URL.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100984776.json . 
+Two "first"
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100984943.json . 
+One empty line is enough.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100985183.json . 
+Just in case, you can add bold text with inline-code if you want.
+"putting adding", pick one ;-)
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100985313.json . 
+6 will -> weeks.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100985375.json . 
+Only one space after periods.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100985455.json . 
+things -> issues, aspects, etc.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-100985560.json . 
+nit: Android
+put the link on the text instead of between parentheses.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101456729.json . 
+Looks like this one is still open (missing .md in the link)
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101456757.json . 
+Drop the / after .md in the link.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101456862.json . 
+I have the feeling you misread my comment (or it wasn't clear): I was asking you to add a link to these 2 documents in the README, not to link the README from these docs.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101456938.json . 
+Let's point them to URL and specify that they can bookmark their locale's team page.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101456988.json . 
+nit: "should be doing" instead of "start doing", to avoid start…start.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101457035.json . 
+If we point them to the team's page, you need to update this paragraph and the following.
+
+I would ask them to focus on errors and warnings alone.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101457264.json . 
+I'd move this sentence right after the 8 weeks one.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101457720.json . 
+Actually, re-reading it, it wasn't really clear :thumbs_down_sign:(it was in my head). Feel free to drop this paragraph.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101828518.json . 
+Do you mean I should change the link to the dashboard to the teams page? Or add the teams page (and the fact they can bookmark their own) as additional information?
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101828704.json . 
+I think we should not send them to shipping, so replace the existing link with the teams one.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101828909.json . 
+If it makes things easier, you could point to a specific locale's team page, explaining that you can replace the locale code in the URL or search for your team in the /teams page. I think the latter would be enough.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101828927.json . 
+OK waiting to hear back on comment above for this.
+Concerning focusing on errors and warning alone: I have a feeling I'm already doing that. Do you think I'm giving too much information and should strip that down? Or were you thinking of something else?
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101829911.json . 
+Actually, warnings are not even displayed on that page (didn't remember that :-\)
+URL.
+
+I meant that they should not be focusing on orange or green icon, only on the number of errors and warnings (in /shipping). On the team's page, only on error notices and finding them in the linked page.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101830602.json . 
+Aha, that makes sense :thumbs_up_sign: 
+Agreed, will update accordingly.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101844434.json . 
+teams -> locale's, also column twice later.
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101845621.json . 
+Thanks!
+Concerning the readme: I didn't change it because looking at it now, I don't really see where that would fit.
+It already links to the Android and Firefox folders in the 1st bullet point, and then you list out what they contain. I would need to probably reformat all this it want to add direct links to these docs.
+Should I just do that? .
+.
+#mozilla-l10n/documentation/issue-207407938\pr-comment-101879681.json . 
+Uhm - I was looking at the wrong README. Will update, I understand why this wasn't making sense to me. .
+.
+#mozilla-l10n/documentation/issue-209221834\issue-209221834.json . 
+Draft file, pending L10n PM review.
+.
+#mozilla-l10n/documentation/issue-209221834\pr-107242615.json . 
+Draft file, pending L10n PM review.
+.
+#mozilla-l10n/documentation/issue-209257131\comment-281473612.json . 
+One more note: can you add a link to this document in the README for mozilla.org?
+URL.
+.
+#mozilla-l10n/documentation/issue-209257131\comment-281597604.json . 
+I've realized there's one more info missing: how often we get data from Pootle and Pontoon, how often the dashboard and dev server update.
+.
+#mozilla-l10n/documentation/issue-209257131\issue-209257131.json . 
+Draft file, pending L10n PM review.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-107267387.json . 
+Draft file, pending L10n PM review.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102304729.json . 
+Dev server, staging is another url (no need to tell them, is www.allizom.org)
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102304955.json . 
+I would remove the (locale code) from all other URLs, you can point them to URL for Pontoon.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102305096.json . 
+Same here URL.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102305338.json . 
+Later you use the Oxford comma, you should add one before "and values".
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102305670.json . 
+If these titles are supposed to be at the same level of "pre-l10n tests", and below "What to test:", they should be 3rd level.
+
+Other documents don't use Title case for titles, I would keep doing that for consistency.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102305708.json . 
+Drop the colon?
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102305941.json . 
+Do we really want to call Transvision a glossary?
+
+Inconsistent use of period at the end of the list items.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102305995.json . 
+consistent.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102306055.json . 
+Missing period before While.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102306494.json . 
+This is not necessarily true, sometimes pages are in English, also links are never localized so they would be broken for all languages.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102308626.json . 
+There are exceptions, e.g. when the space available in the navigation is smaller.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102308717.json . 
+github -> GitHub. 
+
+Where in GitHub? Link the repository somewhere.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102308827.json . 
+Inconsistent period at end of list items.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102308948.json . 
+See comment above about this not always being the case, also extra "of"
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102309078.json . 
+Tricky: it's not going to be listed if the page is localized in their own language ;-)
+
+Tell them to visit for example www.mozilla.org/en-US and check.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102309184.json . 
+You can provide a link here, instead of letting them guess www-dev.allizom.org/blabla.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102309250.json . 
+Uhm, can you explain this?
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102309405.json . 
+Not sure I understand the part about UX team, localizers for RTL languages know how the page should look.
+
+Nit: keep using one single space after periods.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102309543.json . 
+Should we include this? It seems overly specific.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102309727.json . 
+Is this really on localizers to test? It might be, especially for languages not using Latin characters, but it's border line.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102309940.json . 
+home grown browser? :pig: .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102311046.json . 
+the production -> production, or the production server
+webpage dashboard -> web dashboard
+
+I don't think we should explain tags to them, they don't see them. We should just tell them that new strings added to existing pages are visible in production only when localized, unless they're in a shared file.
+
+For the last part, the concept is that sometimes a completely new template is used for a page, e.g. the home page, and that deadlines are strict: after the deadline, the old template will be disabled. All these big changes are communicated well in advance on the mailing list.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102319514.json . 
+change it to be more specific: "... or they will be redirected to en-US if the pages are not." If this is still wrong or confusing, we need to change the sentence. The point is that they should check the links. .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102319854.json . 
+add "If they are not, they should be redirected to en-US pages."
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102320362.json . 
+change to "Is your language listed as one of the options? Check www.mozilla.org/en-US to confirm."
+I didn't know it is not. should we hook it up with CLDR library?  .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102320504.json . 
+Links might external to mozilla.org, on websites that are en-US only. It's a bit hard given how many possibilities there are.
+
+Even if they are on mozilla.org, it might be pages that we don't localize. 
+
+Personally I would drop both sentences, maybe only add a note about testing the links to verify that the translation of the link is coherent and the link is functional.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102320954.json . 
+Remember the bug for contact in the FFOS development days? Same issue. Is the language sorting order by ISO code or in language specific order? This is mostly a problem for non-Latin character based languages, such as CCJK, etc.  I can remove it if the list goes by English alphabet order.  .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102321218.json . 
+What's unclear to me is which dropdown list they should check… Also, it's not necessarily true that a dropdown should be ordered.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102321425.json . 
+On second thoughts, safer to tell them to check URL.
+
+If the home page is not fully localized, their locale won't be listed on prod.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102321449.json . 
+From what I understand, the "mirror" effect is not exactly 100% flip over horizontally.  I am not clear if we follow industry standard or Mozilla standard, this is why i made it vague, as the standard is not unified (I can't recall all the details", but as long as the localizers, especially new comers know what it is, it is fine.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102321956.json . 
+we can include Theo to review this. It is once a year, but the list has expanded. There is a mixture of things that are not implemented fully.  Especially payment, community can help. If this is just too much, we can remove it. .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102322703.json . 
+You know what I meant, lol!!  Are there major browsers that the Russians, the Brazilians, and the Middle Easterners that developed that are very popular locally/regionally? Let's rephrase it!! .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102400574.json . 
+produced product -> products
+
+I would drop the part inline-code because it sounds a bit weird in this kind of document, but that's just me.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102400749.json . 
+Can you drop (locale) from this link? If you look at the page you'll understand why
+URL.
+
+Keep a working URL here, add a note later that pages on mozilla.org should redirect to the right locale, if they don't you can add your locale code. Same for the webdashboard link later.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102400787.json . 
+Staging -> Dev server.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102400852.json . 
+Double space. You also need to explain what this repository is, and why the shouldn't bother if they work on tools.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102400923.json . 
+Remove period after localized.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102400966.json . 
+US -> English.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102401040.json . 
+This one is missing a subject (correct -> correctness)
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102401116.json . 
+among .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102401229.json . 
+comma before or.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102401368.json . 
+As said in the previous comment, just give an example of broken URL instead of asking them to come up with one.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102401388.json . 
+Consistency: final period or not?
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102401539.json . 
+No double spaces after period, one empty line after is enough.
+
+Again, localizers are not supposed to know that the UX team wants or decides.
+
+block-code.
+
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102401630.json . 
+I would really limit this to testing that mozilla.org look good in other major browser if your language doesn't use Latin characters.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102402442.json . 
+We need to simplify this, e.g.
+
+
+
+In some cases pages receive major updates that require a complete rewrite of the template: if this happens, the old template is kept online only for a short period of time and, when removed, it will cause the URL to redirect users to the English version.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102545047.json . 
+Not sure I understand this sentence. By associate, we mean “Make the content of the page consistent with product translations”?
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102546264.json . 
+We do not display a country list on the take over, nor we do on donate.mozilla.org.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102547987.json . 
+Duplicate with “Currency availability”, we automatically enable Stripe and/or Paypal based on the currency availability (see links above)
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102548101.json . 
+We don’t have this form on mozilla.org.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102548349.json . 
+We don’t have this form on mozilla.org either, it is directly handled by the implementation on donate.mozilla.org with Stripe and Paypal (and we don’t have control over those forms).
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102548984.json . 
+Is “Give before December 31st” the only date displayed on mozilla.org?
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102549340.json . 
+Yes, but it is open to all locales (both donate.mozilla.org and the strings on mozilla.org takeover). We can add more currencies as we add locales, but it is true that we are limited by the  currencies supported by Stripe and Paypal. We can support any of those for Stripe: URL.
+And any of those for Paypal: URL.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102550853.json . 
+We should also mention that those strings are not always available for testing, and that the takeover only appears once in a given tab.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102555632.json . 
+Should there be a new section here to explain how to test strings difficult to display? Like strings in firefox_tour.lang or privacy_tour.lang for either tracking protection tour, whatsnew, firstrun….
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102556001.json . 
+Wrong link + typo, should be inline-code.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102644500.json . 
+We can call out certain type of strings that are difficult to test.   Do you have a list of these pages in mind? What makes them difficult to test?   .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102644600.json . 
+I honestly don't know the flow of this part of the testing. I know it involves transaction.  From the input below, the solution is provided by a 3rd party.  Maybe we can discuss this on our weekly call so I understand it better.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102644854.json . 
+I think on the confirmation receipt of the transaction.  However, I only went as far as the mailing address window in the flow.  .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102644934.json . 
+I will send you a screenshot on IRC. If this is something created by the 3rd party, then it is out of our control.  .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102645137.json . 
+if this is the case, then we can remove it. .
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102645346.json . 
+The country list is definitely on the form when people fill out personal info. but if this is provided by third party, then we don't have any control. Having said that, the donation process expects donors to understand English ^-^. People will not provide personal info if the process is not in their language, especially with money involved.
+.
+#mozilla-l10n/documentation/issue-209257131\pr-comment-102698790.json . 
+Just to clarify the whole section, this is the only thing hosted on mozilla.org: URL.
+
+Everything that comes when you click on Donate is from donate.mozilla.org and does not belong to this doc ;)
+.
+#mozilla-l10n/documentation/issue-209562841\comment-281784487.json . 
+Done: URL.
+
+
+.
+#mozilla-l10n/documentation/issue-209563704\comment-281784987.json . 
+Done: URL.
+.
+#mozilla-l10n/documentation/issue-209563704\issue-209563704.json . 
+For both localizers and l10n-drivers.
+.
+#mozilla-l10n/documentation/issue-209724991\comment-281980614.json . 
+Thanks for the review :thumbs_up_sign: .
+.
+#mozilla-l10n/documentation/issue-209724991\issue-209724991.json . 
+Fixes #26 .
+.
+#mozilla-l10n/documentation/issue-209724991\pr-107597979.json . 
+Fixes #26 .
+.
+#mozilla-l10n/documentation/issue-209724991\pr-comment-102702537.json . 
+Are we making Focus for Android?
+.
+#mozilla-l10n/documentation/issue-209724991\pr-comment-102703057.json . 
+Yep :-) 
+URL.
+
+!a3807e09afab6d37ff5352a270a467b4
+
+.
+#mozilla-l10n/documentation/issue-211173248\issue-211173248.json . 
+New doc.
+
+How to remove obsolete files we are certain are no longer relevant or useful?  Recent example is the removal of FFOS files on mozilla.og.  .
+.
+#mozilla-l10n/documentation/issue-211176159\issue-211176159.json . 
+Add test instruction for mozilla.org.
+.
+#mozilla-l10n/documentation/issue-211176159\pr-108605563.json . 
+Add test instruction for mozilla.org.
+.
+#mozilla-l10n/documentation/issue-211412773\comment-284208772.json . 
+Thanks, fixed and updated max priority to 5.
+.
+#mozilla-l10n/documentation/issue-211412773\comment-284208960.json . 
+And looks I don’t have commit rights here :/
+.
+#mozilla-l10n/documentation/issue-211412773\comment-284209025.json . 
+
+
+Fixed that ;-)
+
+Thanks for all the reviews.
+
+.
+#mozilla-l10n/documentation/issue-211412773\issue-211412773.json . 
+Use "you" or "passive" form, not "we".
+Use apostrophe instead of straight single quote.
+
+This is currently blocked by URL but it might help with reviews.
+.
+#mozilla-l10n/documentation/issue-211412773\pr-108774769.json . 
+Use "you" or "passive" form, not "we".
+Use apostrophe instead of straight single quote.
+
+This is currently blocked by URL but it might help with reviews.
+.
+#mozilla-l10n/documentation/issue-211412773\pr-comment-104303144.json . 
+2016-05-30 <>  dd-mm-yyyy :)
+.
+#mozilla-l10n/documentation/issue-211412773\pr-comment-104303147.json . 
+Same here.
+.
+#mozilla-l10n/documentation/issue-211505303\comment-283771878.json . 
+Thanks. Updated. Trying to do all of this through GitHub UI.
+.
+#mozilla-l10n/documentation/issue-211505303\comment-283772692.json . 
+Looks good, thanks.
+.
+#mozilla-l10n/documentation/issue-211505303\issue-211505303.json . 
+@flodolo r?
+.
+#mozilla-l10n/documentation/issue-211505303\pr-108842315.json . 
+@flodolo r?
+.
+#mozilla-l10n/documentation/issue-211505303\pr-comment-104021745.json . 
+missing one before of.
+.
+#mozilla-l10n/documentation/issue-211505303\pr-comment-104022017.json . 
+try -> try to.
+.
+#mozilla-l10n/documentation/issue-211517919\comment-283781592.json . 
+I'll also update field order and descriptions to match the docs:.
+URL.
+.
+#mozilla-l10n/documentation/issue-211517919\comment-283940926.json . 
+Updated.
+
+I'll file a bug to simplify this after bug 1343908 gets resolved.
+.
+#mozilla-l10n/documentation/issue-211517919\issue-211517919.json . 
+@flodolo r?
+
+This is complicated. We should automate it. Maybe after we figure out what to do with bug 1343908.
+.
+#mozilla-l10n/documentation/issue-211517919\pr-108851242.json . 
+@flodolo r?
+
+This is complicated. We should automate it. Maybe after we figure out what to do with bug 1343908.
+.
+#mozilla-l10n/documentation/issue-211517919\pr-comment-104090596.json . 
+The script used by this locale.
+.
+#mozilla-l10n/documentation/issue-211517919\pr-comment-104090690.json . 
+Let's drop the hr.
+.
+#mozilla-l10n/documentation/issue-211517919\pr-comment-104090739.json . 
+Use backticks instead of double quotes, i.e.
+block-code.
+.
+#mozilla-l10n/documentation/issue-211605132\issue-211605132.json . 
+See URL.
+.
+#mozilla-l10n/documentation/issue-211605132\pr-108914139.json . 
+See URL.
+.
+#mozilla-l10n/documentation/issue-212907468\comment-285224235.json . 
+Asking for review from either flod or Jeff since they are both familiar with this :) .
+.
+#mozilla-l10n/documentation/issue-212907468\pr-comment-105096494.json . 
+Let's keep avoiding "we". Also, avoid repeating the same information about screenshots you provide later. e.g.
+
+
+
+.
+#mozilla-l10n/documentation/issue-212907468\pr-comment-105096733.json . 
+Nitpicking: it's not the link that can be found at the link.
+
+inline-code.
+.
+#mozilla-l10n/documentation/issue-212907468\pr-comment-105097276.json . 
+~~we~~
+Possible alternative:.
+
+
+
+BTW, aren't Test Flight builds still available? I still get the notifications .
+.
+#mozilla-l10n/documentation/issue-212907468\pr-comment-105097508.json . 
+Maybe use this as text before the list, and pick a more "titly" (is that even a word :unicorn_face: ?) test? Something like 
+block-code.
+.
+#mozilla-l10n/documentation/issue-212907468\pr-comment-105097595.json . 
+You're missing "Untranslated content". And then you'll need to explain that we have 2 tiers of support in iOS, and in some case translations come from the OS.
+.
+#mozilla-l10n/documentation/issue-212907468\pr-comment-105097672.json . 
+When a locale ships for the first time, l10n-drivers and the localization team will work….
+.
+#mozilla-l10n/documentation/issue-212907468\pr-comment-105097773.json . 
+Nit: sign-off is a noun, sign off is a verb. 
+
+signing-off -> signing off.
+.
+#mozilla-l10n/documentation/issue-212907468\pr-comment-105097849.json . 
+all this -> this process.
+.
+#mozilla-l10n/documentation/issue-213200619\comment-285587858.json . 
+What happened her? Looks like you created a branch and then removed it?
+.
+#mozilla-l10n/documentation/issue-213200619\comment-285587931.json . 
+Ah, never mind, it was only one line changed :warning_sign:️ .
+.
+#mozilla-l10n/documentation/issue-213200619\issue-213200619.json . 
+- Steps need to be reviewed and verified
+- See my note, one doesn't work on production but works in staging
+- Need instrution for Syn if there are steps beyond the static pages and still are part of mozilla.org content.
+- Any other pages missing? I did not check opt-in pages.  .
+.
+#mozilla-l10n/documentation/issue-213200619\pr-110031122.json . 
+- Steps need to be reviewed and verified
+- See my note, one doesn't work on production but works in staging
+- Need instrution for Syn if there are steps beyond the static pages and still are part of mozilla.org content.
+- Any other pages missing? I did not check opt-in pages.  .
+.
+#mozilla-l10n/documentation/issue-213396279\comment-285744982.json . 
+
+
+sendto is enabled only for a few locales, on www-dev is enabled for all, that's why the link to dev server
+
+
+
+Can you explain exactly what content (strings) you're trying to reach? I can check the code to see if they're still used.
+
+
+
+As far as I can see, you can only get to "Disable protection for this session".
+.
+#mozilla-l10n/documentation/issue-213396279\comment-285745757.json . 
+
+
+Found. You can only see "for this site" enabling TP in normal mode
+URL.
+.
+#mozilla-l10n/documentation/issue-213396279\comment-285761397.json . 
+To answer your question, these are locales enabled on prod for sendto
+URL.
+.
+#mozilla-l10n/documentation/issue-213396279\comment-286239320.json . 
+For the sync.lang file, half of its content is for the current static page, the other half is either obsolete or a part of a dynamic page flow.  
+
+@TheoChevalier, @flodolo, we can remove the sync and signup sections if the rest of the newly added content is ok.  so we can release it for the agencies that need it.  We can figure out what to add for sync and if we need to keep signup page.  .
+.
+#mozilla-l10n/documentation/issue-213396279\comment-286240394.json . 
+At this point I would drop both those parts, and eventually update the doc later if it's needed.
+.
+#mozilla-l10n/documentation/issue-213396279\comment-286243890.json . 
+Good to merge for me (you should be able to do it directly now).
+.
+#mozilla-l10n/documentation/issue-213396279\issue-213396279.json . 
+- Need review and verification of the steps
+- Line #85, this page only exists on staging. Is there a production link?
+- Line #89, can't seem to find a way to get to the Sync content. Are the messages for first time sync setup?
+- Line #91, for this feature, I can’t get to this message as the feature is not offered in the current product: It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-110168548.json . 
+- Need review and verification of the steps
+- Line #85, this page only exists on staging. Is there a production link?
+- Line #89, can't seem to find a way to get to the Sync content. Are the messages for first time sync setup?
+- Line #91, for this feature, I can’t get to this message as the feature is not offered in the current product: It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105452782.json . 
+No title case.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105452911.json . 
+overtime -> over time.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105453173.json . 
+Use a tab, not .. Checkout out of the page looks like
+URL.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105453393.json . 
+You can simplify here: "Open Firefox and start a New private window"
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105454969.json . 
+the manifestos -> manifesto's principles?
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105454998.json . 
+manifesto -> principle.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105455086.json . 
+No double spaces after a period.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105455125.json . 
+prompt -> prompted.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105455798.json . 
+Note that this is the sign-up for the newsletter, not for the contribute page. That's available even at the bottom of the home page.
+
+The error bubbles come from Firefox, e.g. try signing up at the bottom of the Italian page, the warning will be in English URL.
+
+Personally I would drop this section.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105465698.json . 
+The whole doc is in this format.  Updating all titles except for the title of the document.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105465793.json . 
+fixed.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105469313.json . 
+Looks like there's a rogue straight quote instead of an apostrophe.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105469405.json . 
+I think it should be "signing up to newsletters"
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105473512.json . 
+Remove en-US from the link.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105473629.json . 
+Remove en-US from all these links.
+.
+#mozilla-l10n/documentation/issue-213396279\pr-comment-105477674.json . 
+Commenting again here, since doing it on a commit is confusing: this one actually needs to point to /en-US.
+.
+#mozilla-l10n/documentation/issue-214318316\comment-286749401.json . 
+You might want to start from this part, and look at the linked document.
+URL.
+
+The rest is just applying these rules to the existing documents.
+.
+#mozilla-l10n/documentation/issue-214318316\comment-286836326.json . 
+Recap of IRC discussion with Delphine. 
+
+If you use Atom, you can install a package called smart-quotes-plus (go into Preferences, select Install on the left, search for the name and install it).
+
+Then use ctrl+alt+' to swap all quotes to the correct ones (you can do it also on a selection of text). Make sure that you don't do that on a document that contain ' (e.g. code fragments). If you don't remember the shortcut, you can press alt+shift+p and search for smartquotes.
+
+Not sure if we want something in the docs about this.
+
+
+.
+#mozilla-l10n/documentation/issue-214318316\comment-286838436.json . 
+I'd vote for including this tip in the doc. .
+.
+#mozilla-l10n/documentation/issue-214318316\comment-286841885.json . 
+Added note: URL.
+
+Note that you should use the official review command (go in the inline-code tab, inline-code, approve changes) to mark the PR as good to go.
+.
+#mozilla-l10n/documentation/issue-214318316\comment-286853957.json . 
+Looking good :D thanks!
+.
+#mozilla-l10n/documentation/issue-214318316\issue-214318316.json . 
+Fixes #68 .
+.
+#mozilla-l10n/documentation/issue-214318316\pr-110793394.json . 
+Fixes #68 .
+.
+#mozilla-l10n/documentation/issue-214921341\issue-214921341.json . 
+Specs say that you should leave an empty line before and after a title.
+
+Also update style guide with instructions on how to run the linter
+locally.
+.
+#mozilla-l10n/documentation/issue-214921341\pr-111223187.json . 
+Specs say that you should leave an empty line before and after a title.
+
+Also update style guide with instructions on how to run the linter
+locally.
+.
+#mozilla-l10n/documentation/issue-215815368\comment-288329358.json . 
+Addressed comments in URL.
+.
+#mozilla-l10n/documentation/issue-215815368\comment-288942624.json . 
+Docs updated. If someone can give this a green tick, next week I'll change how me manage supported locales (automation, yay!).
+.
+#mozilla-l10n/documentation/issue-215815368\issue-215815368.json . 
+overview.md is the same content that used to be in README.md, review should just focus on add_new_product.md 
+ 
+Fixes #18 .
+.
+#mozilla-l10n/documentation/issue-215815368\pr-111833213.json . 
+overview.md is the same content that used to be in README.md, review should just focus on add_new_product.md 
+ 
+Fixes #18 .
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107220551.json . 
+I believe additional code is needed to support whatsnew? If that’s not covered by the code documented here, maybe we should mention it.
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107222525.json . 
+not sure if you intend to be exhaustive here, but if you do, you should mention the length limit on keywords for App Store.
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107234332.json . 
+Maybe add that an easy way to test is "translating" one locale, and check the views, APIs….
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107236343.json . 
+Are these shipping locales, or enabled locales? Or am I completely lost and those are the locales supported by the store? We are referring to shipping locales later in the doc. I know some time ago we had two separate lists, one for the shipping locales, one for the enabled locales, I assume this is still the case. Not sure if it’s worth mentioning that the list need to be maintained, or if it’s something obvious enough (or already mentioned many times in this doc)
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107237874.json . 
+Good point. It's shipping locale, as in locales that are available in the app. Will udpate.
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107239579.json . 
+Not much code actually: one variable in template and in the view. Maybe worth a note as a final paragraph before testing.
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107239754.json . 
+indeed, I wasn't planning to be exhaustive, but maybe it's not a bad to idea to add all cases.
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107239841.json . 
+OK.
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107397222.json . 
+How come GH shows this comment as obsolete?
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107714864.json . 
+I assume you don't mention Firefox for iOS because there's not enough content in that section there yet?
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107715354.json . 
+Nit: The first thing to do it to add -> The first thing to do is...
+
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107715782.json . 
+Nit: "it the project" -> "if the project"
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107716701.json . 
+Super long sentence. I'd cut it up into at least 2 parts :) It's an entire sentence starting from "Templates", with a lot of commas.
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107721558.json . 
+I think jetlag is tricking you: the link is about managing "App Store" and "Google Play", which includes all projects supported there.
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107721658.json . 
+:pile_of_poo: fixing.
+.
+#mozilla-l10n/documentation/issue-215815368\pr-comment-107722027.json . 
+Indeed, no clue why I went full commas here.
+.
+#mozilla-l10n/documentation/issue-216168931\issue-216168931.json . 
+Contacts, External resources and Admin notes.
+.
+#mozilla-l10n/documentation/issue-216168931\pr-112082190.json . 
+Contacts, External resources and Admin notes.
+.
+#mozilla-l10n/documentation/issue-216787013\comment-293234375.json . 
+@TheoChevalier Ping? :unicorn_face: .
+.
+#mozilla-l10n/documentation/issue-216787013\comment-293275701.json . 
+Updated, thanks (will need a green tick to make GH happy)
+.
+#mozilla-l10n/documentation/issue-216787013\issue-216787013.json . 
+See URL.
+.
+#mozilla-l10n/documentation/issue-216787013\pr-112457045.json . 
+See URL.
+.
+#mozilla-l10n/documentation/issue-216787013\pr-comment-110905837.json . 
+to to.
+.
+#mozilla-l10n/documentation/issue-217603934\comment-322057740.json . 
+Done!  We will modify the files with CASA and possible MoFo process.  .
+.
+#mozilla-l10n/documentation/issue-217611610\comment-290412768.json . 
+@flodolo, I added explanations to some of the concepts and see if they make sense to you.  .
+.
+#mozilla-l10n/documentation/issue-217611610\comment-313193641.json . 
+@gueroJeff, @Delphine, @TheoChevalier, at the moment, i am stuck with this doc not making any progress.  If it is ok as it stands, knowing we can update at a later time with new and different info, can we go with this doc.  Only @flodolo provided feedback. He has specifically highlighted the areas that lack reasons for certain tasks. Do you feel the same?  
+
+Given the new dimension of working with agency, such as marketing agency, I will need to add a new section for that, if this interests anyone other than me, :).  This new process may be duplicated in Asia in the coming months.  .
+.
+#mozilla-l10n/documentation/issue-217611610\comment-313266685.json . 
+I would wait if possible, I’ve started doing quite some changes during the all-hands, but have yet to finish (and can’t really right now)
+.
+#mozilla-l10n/documentation/issue-217611610\comment-313694919.json . 
+I'll wait to see Theo's changes before reviewing.
+.
+#mozilla-l10n/documentation/issue-217611610\comment-316099304.json . 
+@flodolo does this help clarify? URL.
+@peiying2 Are the changes accurate?
+.
+#mozilla-l10n/documentation/issue-217611610\comment-319340873.json . 
+Final note: It's mostly nits, I would like to see a clarification on what vetted means and more style consistency with the existing docs, but this looks much better to me.
+.
+#mozilla-l10n/documentation/issue-217611610\comment-319391639.json . 
+Do we want a link in URL 
+
+So we can also fix the weird markup there :-)
+.
+#mozilla-l10n/documentation/issue-217611610\comment-319393001.json . 
+Looks like it was a nbsp :) Link added, markup fixed.
+.
+#mozilla-l10n/documentation/issue-217611610\comment-320942831.json . 
+Can we try to close this one, please? :-)
+.
+#mozilla-l10n/documentation/issue-217611610\comment-320992962.json . 
+I have to add a new section - a new process is added to approving "brand new" agency.  Will get this done today or this week.  .
+.
+#mozilla-l10n/documentation/issue-217611610\comment-321026005.json . 
+Also added a link to SUMMARY.md, we forgot about it.
+.
+#mozilla-l10n/documentation/issue-217611610\comment-321620013.json . 
+I would recommend we merge this in its current state and treat CASA as an update, I would like to share this page with a few people to explain how we work with project stakeholders when we work with a vendor.
+(But can’t merge this myself)
+.
+#mozilla-l10n/documentation/issue-217611610\comment-321721322.json . 
+Theo, let's merge it and add changes later.
+
+I reread the CASA process, it is not far from what we stated here, I just need to blend some of the content in the MSA (legal review) and PO part (finance review) text we have with links. I also need to verify if we are doing away the form about banking info, a form that should live in the system, not as an attachment sent in an email.  .
+.
+#mozilla-l10n/documentation/issue-217611610\comment-321721454.json . 
+We can also add MoFo process (anything different from MoCo) if it is the case other than different contacts.  .
+.
+#mozilla-l10n/documentation/issue-217611610\comment-321837364.json . 
+@TheoChevalier Let me merge this so you can start sharing.  .
+.
+#mozilla-l10n/documentation/issue-217611610\comment-321838176.json . 
+Thanks!
+.
+#mozilla-l10n/documentation/issue-217611610\issue-217611610.json . 
+guidelines in working with an l10n agency.  .
+.
+#mozilla-l10n/documentation/issue-217611610\pr-113007874.json . 
+guidelines in working with an l10n agency.  .
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108733434.json . 
+I have the feeling you want “as soon as” between apostrophes?
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108734762.json . 
+Use Atom to edit these documents and check the preview. These secondary items are currently broken.
+URL.
+
+End each list item with a period.
+
+As someone who has zero experience in dealing with agencies, I would love a short explanation of what each elements is.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108734958.json . 
+These should be a first level item. Also, period at the end.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108735437.json . 
+You need an account to provide suggestions.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108735511.json . 
+Same here, as far as I remember.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108735594.json . 
+What does this mean?
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108735748.json . 
+an officlal request (no s)
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108735847.json . 
+tasks.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108735939.json . 
+Why switch to 4th level?
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108736077.json . 
+Typo in the name, put a real link to Transvision.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108737824.json . 
+Also, transivision vs transvision .
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108737992.json . 
+nervermind
+
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108922602.json . 
+This is still part of the planning phase. Since the list is a bit long, I feel the need of calling it out separately.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-108923372.json . 
+add links only viewable by drivers.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-128007696.json . 
+@peiying2 I’ve put those two lines in comment (well, tried but syntax is wrong) because I’m not sure I fully understand them. Could you help clarify what you have in mind for inline-code, inline-code and inline-code? Or provide examples of what those are .
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130577167.json . 
+Is it too much information to explain what vetted means in practice?
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130577355.json . 
+nit: add period at the end.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130577425.json . 
+Is there a standard definition of what rush means? 24h, x days, ?
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130577798.json . 
+nit: ; -> ,
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130578023.json . 
+review them -> reviews them (or better, can review them)
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130578190.json . 
+Add period at the end.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130578248.json . 
+nits: additional (lowercase), WordPress.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130578587.json . 
+Dealine -> deadlines?
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130578764.json . 
+I don't think you need a bullet point here.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130579068.json . 
+Typo: community.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130579450.json . 
+update -> updates.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130579500.json . 
+could be that -> could be if?
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130616451.json . 
+Nope, but it’s a good point. Changing it into something like inline-code Is this proper English?
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130626114.json . 
+@flodolo Would this work? inline-code.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-130626603.json . 
+Yep, works fine for me.
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-131056129.json . 
+* Scope: refers to detailed breakdown of type of content being localized: number of words, type of localization (software, web pages, screenshot/image localization, video subtitle, audio script), in what languages, testing, QA
+* Plan: refers to schedule that includes milestones
+* Expectation: how the files are delivered, all at once or incrementally, in what file format (especially video/audio) etc. Or when localized work is delivered, what else does the vendor need to do, does mozilla provide test plan if they need to test, etc.  
+
+.
+#mozilla-l10n/documentation/issue-217611610\pr-comment-131978841.json . 
+Thanks! Rephrased the two sentences with the details provided here.
+.
+#mozilla-l10n/documentation/issue-220960444\issue-220960444.json . 
+Assuming that’s what you meant :)
+.
+#mozilla-l10n/documentation/issue-220960444\pr-115326579.json . 
+Assuming that’s what you meant :)
+.
+#mozilla-l10n/documentation/issue-221025412\issue-221025412.json . 
+* [x] Create a new repository
+* [ ] Move existing user facing documentation to this repository.
+.
+#mozilla-l10n/documentation/issue-221162069\comment-293484646.json . 
+The best way to check this is to take a quick look at the diff, then browse the documentation starting from here
+URL.
+
+.
+#mozilla-l10n/documentation/issue-221162069\comment-293992062.json . 
+Thanks for checking. Given that now you need to go through mozilla-central, I doubt we'll have localizers doing it. It will be an exception, and sending them to the other doc should be enough.
+.
+#mozilla-l10n/documentation/issue-222388349\comment-295094300.json . 
+
+
+If there's a leftover "I" it should be fixed, "you" is not a problem
+URL.
+.
+#mozilla-l10n/documentation/issue-222388349\comment-295094566.json . 
+Thanks for the review, merging ;-)
+.
+#mozilla-l10n/documentation/issue-222388349\issue-222388349.json . 
+Unify documents for productization, and update references from aurora to central.
+.
+#mozilla-l10n/documentation/issue-222388349\pr-116308115.json . 
+Unify documents for productization, and update references from aurora to central.
+.
+#mozilla-l10n/documentation/issue-222396978\comment-305403428.json . 
+Work being done in:.
+URL.
+URL.
+.
+#mozilla-l10n/documentation/issue-222396978\comment-309102394.json . 
+Fixed :unicorn_face: .
+.
+#mozilla-l10n/documentation/issue-222396978\issue-222396978.json . 
+The productization document is going to be updated and unified at the same time, but the other docs need an update.
+.
+#mozilla-l10n/documentation/issue-224257317\comment-297360729.json . 
+It looks good, mostly nits that I can fix directly if you prefer. Is there any plan for notifications to locales independently from projects?
+.
+#mozilla-l10n/documentation/issue-224257317\comment-297365314.json . 
+
+
+Updated and rebased.
+
+
+
+Yes. I'll send an email to inline-code to announce this and start the discussion on next steps.
+.
+#mozilla-l10n/documentation/issue-224257317\issue-224257317.json . 
+You can use Pontoon Stage to try it out.
+
+I also ammended inline-code.
+
+@flodolo r?
+.
+#mozilla-l10n/documentation/issue-224257317\pr-117569923.json . 
+You can use Pontoon Stage to try it out.
+
+I also ammended inline-code.
+
+@flodolo r?
+.
+#mozilla-l10n/documentation/issue-224257317\pr-comment-113423273.json . 
+team -> teams.
+.
+#mozilla-l10n/documentation/issue-224257317\pr-comment-113423377.json . 
+End list items with a period per URL.
+.
+#mozilla-l10n/documentation/issue-224257317\pr-comment-113423533.json . 
+Please use proper apostrophes ’ instead of ' (same in next section)
+.
+#mozilla-l10n/documentation/issue-227352786\issue-227352786.json . 
+Fixes issue #24.
+.
+#mozilla-l10n/documentation/issue-227352786\pr-119650527.json . 
+Fixes issue #24.
+.
+#mozilla-l10n/documentation/issue-231683538\issue-231683538.json . 
+Updated the only case I found in this doc where that needed to be updated.
+.
+#mozilla-l10n/documentation/issue-231683538\pr-122683576.json . 
+Updated the only case I found in this doc where that needed to be updated.
+.
+#mozilla-l10n/documentation/issue-232730487\issue-232730487.json . 
+Also updated path to mozilla-unified.
+.
+#mozilla-l10n/documentation/issue-232730487\pr-123394451.json . 
+Also updated path to mozilla-unified.
+.
+#mozilla-l10n/documentation/issue-233671828\issue-233671828.json . 
+Remove redundant message regarding array for mozilla.org only locale.
+.
+#mozilla-l10n/documentation/issue-233671828\pr-124032770.json . 
+Remove redundant message regarding array for mozilla.org only locale.
+.
+#mozilla-l10n/documentation/issue-236778892\issue-236778892.json . 
+Right now we go into way too many details in too many docs. 
+
+At some point the process will change, dropping MozReview, and that will require updating all of them. Better to consolidate that information in one document beforehand.
+.
+#mozilla-l10n/documentation/issue-236854854\comment-309408605.json . 
+You can also get an idea of the logic by looking at the commit history
+URL.
+.
+#mozilla-l10n/documentation/issue-236854854\issue-236854854.json . 
+Also:.
+* Add a "Useful commands" doc
+* Switch http to https where possible
+* Clean up other documents to reduce duplication
+
+Fixes issue #92 .
+.
+#mozilla-l10n/documentation/issue-236854854\pr-126276811.json . 
+Also:.
+* Add a "Useful commands" doc
+* Switch http to https where possible
+* Clean up other documents to reduce duplication
+
+Fixes issue #92 .
+.
+#mozilla-l10n/documentation/issue-236854854\pr-comment-123145494.json . 
+Shouldn't the path here be rather ~/mozilla/mercurial/mozilla-unified/.hg/patches.
+.
+#mozilla-l10n/documentation/issue-236854854\pr-comment-123156976.json . 
+Not in this case. The example for Queues uses the l10n repository inline-code, so this needs be fixed anyway (it should be inline-code, missing inline-code).
+
+Do you think it would be clearer to use the same files of the MozReview section?
+.
+#mozilla-l10n/documentation/issue-236854854\pr-comment-123580071.json . 
+Not necessarily. I think it's ok!
+.
+#mozilla-l10n/documentation/issue-239549348\issue-239549348.json . 
+URL is migrated to this file and converted to markdown.
+.
+#mozilla-l10n/documentation/issue-239549348\pr-128202217.json . 
+URL is migrated to this file and converted to markdown.
+.
+#mozilla-l10n/documentation/issue-246515558\issue-246515558.json . 
+Trying to make GitBook happier in the home page too.
+.
+#mozilla-l10n/documentation/issue-246515558\pr-133089427.json . 
+Trying to make GitBook happier in the home page too.
+.
+#mozilla-l10n/documentation/issue-247363005\comment-319791557.json . 
+
+
+I don't think you need to call this out explicitly. If they add/remove new strings, they will be added/removed properly. If they modify them, they will be updated.
+
+Nice work!
+.
+#mozilla-l10n/documentation/issue-247363005\issue-247363005.json . 
+@mathjazz Not sure about the part inline-code, but I assume it’s safer not to touch content in addition to renaming the file.
+.
+#mozilla-l10n/documentation/issue-247363005\pr-133688668.json . 
+@mathjazz Not sure about the part inline-code, but I assume it’s safer not to touch content in addition to renaming the file.
+.
+#mozilla-l10n/documentation/issue-247363005\pr-comment-130859346.json . 
+block-code.
+
+This is not correct: if you rename a file completely localized for locale X in the repository, Pontoon will read it, expose it as completely translated as it was before. What you're losing is history, attribution, pending suggestions.
+
+the code side -> in the VCS repository.
+.
+#mozilla-l10n/documentation/issue-247363005\pr-comment-130859776.json . 
+Line breaks are not effective in Markdown. If you need one, you need a inline-code or much worse methods (two empty spaces at the end of the line, which obviously any editor will strip…).
+
+In this specific case, I think you want 3 paragraphs.
+.
+#mozilla-l10n/documentation/issue-247363005\pr-comment-130860298.json . 
+lose all the data -> the process won't be effective.
+.
+#mozilla-l10n/documentation/issue-247363005\pr-comment-130860410.json . 
+I wonder what happens if you rename a file and change strings too. Will Pontoon ignore those changes in the next Sync?
+.
+#mozilla-l10n/documentation/issue-247363005\pr-comment-130861245.json . 
+aaaaah, right!
+.
+#mozilla-l10n/documentation/issue-250021118\comment-322293424.json . 
+Updated.
+.
+#mozilla-l10n/documentation/issue-250021118\issue-250021118.json . 
+Microsoft services locale codes are now stored in the DB.
+.
+#mozilla-l10n/documentation/issue-250021118\pr-135590265.json . 
+Microsoft services locale codes are now stored in the DB.
+.
+#mozilla-l10n/documentation/issue-250021118\pr-comment-133046015.json . 
+MS translator code (lowercase)
+.
+#mozilla-l10n/documentation/issue-250021118\pr-comment-133046112.json . 
+MS terminology code.
+.
+#mozilla-l10n/documentation/issue-250021118\pr-comment-133046208.json . 
+I would remove "in the admin".
+
+There's an extra "The" at the end.
+.
+#mozilla-l10n/documentation/issue-251871568\comment-324554247.json . 
+@peiying2 ?
+.
+#mozilla-l10n/documentation/issue-251871568\comment-324712009.json . 
+LGTMx2!  .
+.
+#mozilla-l10n/documentation/issue-251871568\comment-324716569.json . 
+Thanks, merging.
+.
+#mozilla-l10n/documentation/issue-253026491\issue-253026491.json . 
+Not sure if I captured all on the link type
+
+
+.
+#mozilla-l10n/documentation/issue-253026491\pr-137763640.json . 
+Not sure if I captured all on the link type
+
+
+.
+#mozilla-l10n/documentation/issue-254856300\comment-327182642.json . 
+
+
+That would be great, not sure if someone has cycles to work on it. Also, it's not like we're adding a lot of locales, it would be a pretty low priority.
+.
+#mozilla-l10n/documentation/issue-254856300\issue-254856300.json . 
+Link to the script will be broken until this is merged.
+.
+#mozilla-l10n/documentation/issue-254856300\pr-139036920.json . 
+Link to the script will be broken until this is merged.
+.
+#mozilla-l10n/documentation/issue-256598708\issue-256598708.json . 
+Follow the example of documents written about dropping locales for other projects. .
+.
+#mozilla-l10n/documentation/issue-260928247\comment-333440646.json . 
+Added l10n.toml file here. Note that we don't mention sign-offs anywhere in the docs.
+.
+#mozilla-l10n/documentation/issue-260928247\comment-341139463.json . 
+Updated Android in #116.
+.
+#mozilla-l10n/documentation/issue-260928247\issue-260928247.json . 
+Update all Firefox and Firefox for Android documents to reflect the process and technical changes with implementing x-channel.
+
+Includes:.
+* [ ] l10n.toml file (project configuration) when adding new locales
+
+.
+#mozilla-l10n/documentation/issue-265186183\comment-336609128.json . 
+Updated, thanks.
+.
+#mozilla-l10n/documentation/issue-265186183\issue-265186183.json . 
+Each repository on GitHub has an option to add a description and a link. It would help to add URL as a URL link to make it faster to switch from the repository to the documentation view.
+.
+#mozilla-l10n/documentation/issue-265430337\comment-336583302.json . 
+@tomer your suggestion is still wrong, :). VMM -> VMW - this is an eye test!
+.
+#mozilla-l10n/documentation/issue-265430337\comment-336584138.json . 
+oops. Will fix the commit right away!
+.
+#mozilla-l10n/documentation/issue-265430337\pr-comment-144671364.json . 
+Fixed. :white_smiling_face:.
+.
+#mozilla-l10n/documentation/issue-266202877\issue-266202877.json . 
+Topics:.
+
+- [x] Where to find changesets
+- [x] Type of issues to look out for
+- [x] Sign off in x-channel world.
+.
+#mozilla-l10n/documentation/issue-266478266\comment-337671993.json . 
+Thanks, updated: URL.
+.
+#mozilla-l10n/documentation/issue-266478266\issue-266478266.json . 
+Plus a few more nits and updates.
+.
+#mozilla-l10n/documentation/issue-266478266\pr-147289536.json . 
+Plus a few more nits and updates.
+.
+#mozilla-l10n/documentation/issue-266478266\pr-comment-145485151.json . 
+Hmm "parenthesis" should be "quotes" (or "quotation marks", not sure anymore of the English term) here I believe :) .
+.
+#mozilla-l10n/documentation/issue-266478266\pr-comment-145487242.json . 
+oh boy, those are definitely not parenthesis…
+
+"double quotes"?
+.
+#mozilla-l10n/documentation/issue-266496622\comment-337684721.json . 
+Looks good and very clear. I will give the instruction a try when a file needs to be removed in the not too distant future, very likely with all the changes going on.  .
+.
+#mozilla-l10n/documentation/issue-266496622\comment-337686870.json . 
+Thanks!
+.
+#mozilla-l10n/documentation/issue-266496622\pr-comment-145416414.json . 
+This adds an automatic TOC to the document, since it's quite long.
+.
+#mozilla-l10n/documentation/issue-270147177\comment-340934848.json . 
+I updated this based on the desktop version, so there may be some things I missed mentioning since I've never used the toml file before.
+Also, seems like you only touch the toml file for all-locales and not for maemo - but let me know if I got that wrong and I can update the docs accordingly. thanks!
+.
+#mozilla-l10n/documentation/issue-270147177\comment-341002628.json . 
+For now, maemo-locales and shipped-locales info are not in the l10n.toml file (it will change in the future).
+.
+#mozilla-l10n/documentation/issue-270910506\comment-341680675.json . 
+
+
+Sure. Let me keep this one for sign-offs, and split review in a different PR.
+.
+#mozilla-l10n/documentation/issue-270910506\comment-341682533.json . 
+Moved review.md in #118 .
+.
+#mozilla-l10n/documentation/issue-270910506\comment-342930750.json . 
+
+
+This is mostly for internal use (and curious folks). I'm afraid that putting that information without explaining first how diff view works, how to reach it, etc. might become really hard. Not sure if a reminder at the beginning would be enough.
+
+I'm going to merge this, happy to iterate over the doc in the future. We'll likely come up with more checks too.
+.
+#mozilla-l10n/documentation/issue-270910506\issue-270910506.json . 
+I think this should be good for review.
+
+Feel free to add more point in the review sections, if you can think of any.
+.
+#mozilla-l10n/documentation/issue-270910506\pr-150477442.json . 
+I think this should be good for review.
+
+Feel free to add more point in the review sections, if you can think of any.
+.
+#mozilla-l10n/documentation/issue-270910506\pr-comment-148752503.json . 
+Actually, all of the column can be clicked to open the diff view. Yeah, magic.
+.
+#mozilla-l10n/documentation/issue-270952281\comment-342226768.json . 
+Thanks Delphine, I'll wait for Pike's review this week. We might end up changing it quite a bit, since this describes my way of testing the strings, but I'm afraid it's far from being the best for everyone.
+.
+#mozilla-l10n/documentation/issue-270952281\comment-343392958.json . 
+@Pike 
+Do you want to add your general feedback before I try to change this doc a bit, for example removing the comparison with a localization repository?
+.
+#mozilla-l10n/documentation/issue-270952281\comment-343949452.json . 
+Per vidyo chat: I'm going to merge this, then we can iterate over it going forward.
+.
+#mozilla-l10n/documentation/issue-270952281\issue-270952281.json . 
+See issue #112.
+.
+#mozilla-l10n/documentation/issue-270952281\pr-150508390.json . 
+See issue #112.
+.
+#mozilla-l10n/documentation/issue-275362293\issue-275362293.json . 
+Restructure the first paragraph a bit to avoid the confusion between
+actual repositories, and repositories per locale.
+Modify links to m-c to search for modifications to en-US in the
+last couple of days.
+Add compare-locales against gecko-strings-quarantine.
+.
+#mozilla-l10n/documentation/issue-275362293\pr-153634053.json . 
+Restructure the first paragraph a bit to avoid the confusion between
+actual repositories, and repositories per locale.
+Modify links to m-c to search for modifications to en-US in the
+last couple of days.
+Add compare-locales against gecko-strings-quarantine.
+.
+#mozilla-l10n/documentation/issue-276022267\comment-346314292.json . 
+@peiying2 How does that look? .
+.
+#mozilla-l10n/documentation/issue-276022267\comment-347530372.json . 
+@flodolo comments addressed. @peiying2, ping for the review. :)
+.
+#mozilla-l10n/documentation/issue-276022267\comment-360708181.json . 
+@adngdb , apologize for taking this long to review the doc. Finally I have a real project so I can give it an official run. The instruction is clear and I can follow through the steps and the output is what I expected.
+
+I do have some questions for you to see if you have tips or advice on how to process the project in as little time as possible. After I tried the process on staging, all looked good. When I switch to production side, I have to front load the strings, select the languages, and save the project. Only after this step, when the project technically has gone public, that I can "manage strings" - add comments, check that the strings are all in the right place and in the correct sequence. 
+
+What I am afraid is that as soon as the strings go public, localizers start to translate right away. Are there workarounds to either shorten my prep time or disable the project until I am ready to publish it (Save Project):.
+
+A: Can I Save Project and Disable it at the same time so I can "Manage strings"? Once done, uncheck Disabled box? 
+B: Alternatively, if there is a way to upload the file I prepared at staging to production (since I have checked it there already) to reduce the time needed prepping on production? 
+
+Thank you!
+
+
+.
+#mozilla-l10n/documentation/issue-276022267\comment-360833025.json . 
+For this email project, since we are covering all the email languages, I will set it up the standard way. 
+
+Is there a way to preserve the comment in the output file? URL This has a lot of comments. Alternatively, I can copy the translated strings to the original file from the requester.
+.
+#mozilla-l10n/documentation/issue-276022267\comment-360846556.json . 
+@peiying2 You can indeed disable the project, save it, make all your changes and the de-disable it to make it available to localizers. I'm afraid at the moment there's no better solution for you. We talked about having a better form of import at a second step to this, but we wanted to make sure that the feature was useful first. Now that you're using it, how about we take some time to work on the various improvements you'd like to see? Maybe setup a meeting next week? 
+
+For the moment, I see two features: add comments to the export document, and allow importing that same document (so that you can setup on stage, then just have to export / import to prod). .
+.
+#mozilla-l10n/documentation/issue-276022267\comment-360852151.json . 
+@adngdb I can totally use the Disabled feature for the time being. I know you are super booked with other requests. If you have time to work on this, assuming the solution is not too complicated, then let's resolve this. Next Wednesday and Thursday mornings (my time) look good. Please find a slot to have a quick chat. Thank you!
+.
+#mozilla-l10n/documentation/issue-276022267\comment-360949596.json . 
+@adngdb this is the first: URL Given most of the requests come from marketing, can we have a high level project name, and sub-category (check Engagement project for reference). Otherwise, all the requests have a very flat structure, and may flood a locale dashboard very quickly. All the individual file name will be called "database". This is only a "wish". If this means spending a lot of your time to improve the feature, then don't do it. Thanks!
+.
+#mozilla-l10n/documentation/issue-276022267\comment-364283134.json . 
+@adngdb, I have added more strings to the existing project. Initially I added to the production side directly but on the status bar, it shows 100% completion, so I clicked on the link, at file level, it does show the strings waiting to be completed, but between the % icon and the status bar, a localizer won't know something new is added to an existing project at higher level. I went to the staging site to add these strings, it didn't fix the problem. The Sync button is for repo type of project, not database type, but I tried it too, :). It didn't work. We need to have the status feature fixed. .
+.
+#mozilla-l10n/documentation/issue-276022267\comment-364337989.json . 
+~Can we not use a documentation PR to discuss feature issues? That belongs to a bug.~
+I see there is a bug.
+
+I'd also like to understand the status of this PR.
+.
+#mozilla-l10n/documentation/issue-276022267\pr-comment-152529535.json . 
+nits:.
+* inline-code should be either inline-code or inline-code (single Unicode character). 
+* Use ’ instead of ' (apostrophe instead of straight single quote): Pontoon's -> Pontoon’s. This also later in the doc.
+
+
+.
+#mozilla-l10n/documentation/issue-276022267\pr-comment-152529757.json . 
+Use italic, or “” (curly double quotes) to highlight text.
+.
+#mozilla-l10n/documentation/issue-278472957\comment-348576520.json . 
+Got this! I wanna chat with you in Austin to make sure I get it all :) I think it's mostly clear, but just in case. .
+.
+#mozilla-l10n/documentation/issue-278472957\comment-358173540.json . 
+This totally slipped on my radar. Putting it back up there :)
+.
+#mozilla-l10n/documentation/issue-278472957\issue-278472957.json . 
+See URL.
+
+We need to update the documentation:.
+* When adding a new locale, it needs to be added to exclude-multi-locale
+* When moving it to beta, it needs to be removed from that list.
+.
+#mozilla-l10n/documentation/issue-290140539\comment-359691771.json . 
+@Delphine 
+I've made a few changes, also to fix checks failing. Can you take a look?
+.
+#mozilla-l10n/documentation/issue-290140539\comment-359865446.json . 
+Looks good! Thanks for catching that error Flod - couldn't tell if I was supposed to skip a line or not for the 
+block-code.
+:unicorn_face:.
+.
+#mozilla-l10n/documentation/issue-290140539\issue-290140539.json . 
+Updated with minimal info. Could add more details later if needed.
+.
+#mozilla-l10n/documentation/issue-290140539\pr-164093848.json . 
+Updated with minimal info. Could add more details later if needed.
+.
+#mozilla-l10n/documentation/issue-290140539\pr-comment-162776017.json . 
+I'm not sure if this is the right place: if you run the script at this point, you will end up with changed files before creating a branch, new files will be potentially added to the appstores repository, etc.
+
+I would put it into a separate section with its own title, e.g. "Updating the list of supported locales".
+
+Another thing to call out: If the script changes the list of locales, it's important to run inline-code to add missing files in appstores.
+.
+#mozilla-l10n/documentation/issue-292635964\comment-361462530.json . 
+Realized that the multi-locales doc needed to be updated as well in the meantime :)
+.
+#mozilla-l10n/documentation/issue-292635964\comment-361467429.json . 
+Hmm on second thoughts, I'm thinking I'm not explaining things correctly in the multi-locale doc.
+Is it that you only remove it from the "exclude-multi-locale" section once you've added the locale to multi-locales and done a sign-off so that it is now on Beta? I'm not quite sure how this is supposed to work, not having done it before :/ thanks for helping clarify that part!
+.
+#mozilla-l10n/documentation/issue-292635964\comment-361554682.json . 
+
+
+Right now it doesn't have a practical effect, but it's correct as it is right now: you add the file to maemo-locales and remove it from the excluded list at the same time, since these two operations have the same goal (add locale to multi-locales build).
+
+For both, you need a sign-off on Beta before it goes to build.
+.
+#mozilla-l10n/documentation/issue-292635964\issue-292635964.json . 
+This tackles what was missing for this doc about "exclude-multi-locale" section of toml file, as per #121 .
+.
+#mozilla-l10n/documentation/issue-292635964\pr-165874012.json . 
+This tackles what was missing for this doc about "exclude-multi-locale" section of toml file, as per #121 .
+.
+#mozilla-l10n/documentation/issue-292635964\pr-comment-164702154.json . 
+Let's remove the "in the same way…"?
+.
+#mozilla-l10n/documentation/issue-292635964\pr-comment-164702333.json . 
+Maybe: it should be already -> it should have been added when enabling single locale builds?
+.
+#mozilla-l10n/documentation/issue-292635964\pr-comment-164702376.json . 
+from there -> from this list.
+.
+#mozilla-l10n/documentation/issue-292635964\pr-comment-164850723.json . 
+Agreed, sounds better.
+.
+#mozilla-l10n/documentation/issue-292635964\pr-comment-164850843.json . 
+:thumbs_up_sign:.
+.
+#mozilla-l10n/documentation/issue-292635964\pr-comment-164851203.json . 
+Yeah it's a "heavy" sentence, agreed we can drop that.
+.
+#mozilla-l10n/documentation/issue-302533855\issue-302533855.json . 
+Let me know if I should update other places, I wouldn’t be surprised if I missed some.
+.
+#mozilla-l10n/documentation/issue-302533855\pr-173038139.json . 
+Let me know if I should update other places, I wouldn’t be surprised if I missed some.
+.
+#mozilla-l10n/documentation/issue-303490803\comment-371544565.json . 
+Thanks, merging.
+.
+#mozilla-l10n/documentation/issue-303490803\issue-303490803.json . 
+Regional settings: they moved to a inline-code key a while ago, no point in describing it here how that works.
+.
+#mozilla-l10n/documentation/issue-303490803\pr-173744251.json . 
+Regional settings: they moved to a inline-code key a while ago, no point in describing it here how that works.
+.
